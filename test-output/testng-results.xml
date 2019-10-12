@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20178" started-at="2019-10-12T15:22:07 IST" finished-at="2019-10-12T15:22:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20178" started-at="2019-10-12T15:22:07 IST" finished-at="2019-10-12T15:22:27 IST">
+      <class name="Pooma.ACME">
+        <test-method status="PASS" signature="pooma()[pri:0, instance:Pooma.ACME@5bc79255]" name="pooma" duration-ms="20052" started-at="2019-10-12T15:22:07 IST" finished-at="2019-10-12T15:22:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pooma -->
+      </class> <!-- Pooma.ACME -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
